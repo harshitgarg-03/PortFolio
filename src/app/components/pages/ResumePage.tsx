@@ -84,7 +84,7 @@ export function ResumePage({ tokens }: PageProps) {
           className="flex items-center gap-2 px-4 py-2.5 mt-8 rounded-xl font-medium transition-all"
           style={{
             backgroundColor: accent,
-            color: "#fff",
+            color: "#121212",
             border: "none",
             cursor: "pointer",
             fontSize: "13px",

@@ -24,6 +24,10 @@ const skillRows = [
   { name: "Languages", items: "TypeScript, JavaScript, Java, Python" },
   { name: "Tools & DevOps", items: "Git, GitHub, Docker, Vercel, Cloudinary" },
   { name: "Core CS", items: "Data Structures & Algorithms" },
+  {
+  name: "Generative AI",
+  items: "RAG, LangChain, LangGraph, Vector Databases, AI Memory"
+},
 ];
 
 const achievements = [
@@ -91,7 +95,7 @@ export function ResumePage({ tokens }: PageProps) {
           }}
         >
           <a
-            href="https://drive.google.com/file/d/1pe-vqZnqubiyf80cCMNZvCtd1E9CQn2p/view?usp=sharing"
+            href="https://drive.google.com/file/d/17xSFqOJ5rgV_K7oM4Chxj7rJvEwN97nL/view?usp=drive_link"
             target="_blank"
           >
           Download CV
